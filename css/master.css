@@ -34,7 +34,7 @@ header::after{
 a {
   display: flex;
   align-items: center;
-  overflow: hidden;
+  justify-content: center;
 }
 
 .product-list {
@@ -70,4 +70,10 @@ p {
 
 body {
   background: #F1D300;
+}
+
+.menu ul {
+  display: flex;
+    width: 80vw;
+    justify-content: space-evenly;
 }
