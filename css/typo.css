@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Orienta:400|Poppins:400');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+
+html {font-size: 11px;}
+
+body {
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #333;
+}
+
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  margin-top: 1.75em;
+  margin-bottom: 0;
+  font-size: 6em;
+  line-height: 1;
+  vertical-align: text-bottom;
+  vertical-align: text-top;
+}
+
+h2 {
+font-size: 7em;
+font-weight: bold;
+margin-top: 0;
+margin-bottom: 0;
+font-family: 'Amatic SC', cursive;
+line-height: 40px;
+}
+
+h3 {
+  font-size: 3em;
+  margin-top: 0.25em;
+  margin-bottom: 0;
+  line-height: 10px;
+  font-family: 'Caveat', cursive;
+}
+
+a {
+font-size: 4em;
+font-family: 'Amatic SC', cursive;
+color: #000;
+margin-top: 1em;
+}
+
+p {
+  font-size: 1.75em;
+  margin-bottom: 1.25em;
+  font-family: 'Caveat', cursive;
+}
+
+.fin {
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 1em;
+  line-height: 2em;
+}
+
+small, .text_small {font-size: 0.667em;}
